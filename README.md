@@ -31,7 +31,7 @@ res.data = {
 ```
 
 #### 3、Redis数据库
-**避免回调地狱**=>放弃redis module，采用ioredis，修改Redis数据库配置项
+**避免 回调地狱**=>放弃redis module，采用ioredis，修改Redis数据库配置项
 
 ```javascript
 const Redis_config = {
