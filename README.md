@@ -11,7 +11,7 @@ _后端_：安装**koa-cors**模块，在**route前**加载该中间件
 _前端_：**content-type**改为：**'application/x-www-form-urlencoded'**
 
 #### 2、form-data格式
-_前端_： 安装**qs**模块，采用
+_前端_： 安装**qs**模块， 采用
 
 ```javascript
 this.qs.stringify(this.data)
